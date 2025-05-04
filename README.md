@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Get In Touch
-- **School Email:** [jedidiah.oluwa@usask.ca](mailto:jedidiah.oluwafemi@usask.ca)  
-- **Project Email:** [jedbuilds.projects@gmail.com](mailto:jed@jedbuilds.com)  
+- **School Email:** [jedidiah.oluwafemi@usask.ca](mailto:jedidiah.oluwafemi@usask.ca)  
+- **Project Email:** [jed@jedbuilds.com](mailto:jed@jedbuilds.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/opemiposi-jedidiah-oluwafemi/)  
 - 💻 [GitHub](https://github.com/BluetheJedi)  
 ---
