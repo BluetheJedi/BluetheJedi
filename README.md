@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Get In Touch
-- ✉️ [Email](mailto:youremail@example.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 💻 [GitHub](https://github.com/yourusername)  
-
+- **School Email:** [jedidiah.oluwa@usask.ca](mailto:jedidiah.oluwafemi@usask.ca)  
+- **Project Email:** [jedbuilds.projects@gmail.com](mailto:jed@jedbuilds.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/opemiposi-jedidiah-oluwafemi/)  
+- 💻 [GitHub](https://github.com/BluetheJedi)  
 ---
