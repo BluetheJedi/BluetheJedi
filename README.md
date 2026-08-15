@@ -1,6 +1,6 @@
-# Hi there, I’m Opemiposi Jedidiah Oluwafemi 👋
+# Hi there, I’m Jedidiah Oluwafemi 👋
 
-**Computer Engineering Student • University of Saskatchewan (’26)**
+**Computer Engineering Student • University of Saskatchewan (’27)**
 
 ---
 
