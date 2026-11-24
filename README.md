@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 Current Status
-- 3rd-year Computer Engineering undergrad at U of S (expected graduation: April 2026)  
+- Computer Engineering student at the University of Saskatchewan, Class of 2027  
 - IT Commissioner, Saskatoon Engineering Students’ Society  
 - Building and maintaining a FastAPI-backed personal site (with Nginx & Cloudflare Tunnel)  
 - Actively developing on a Raspberry Pi 5 for IoT, vision and web-hosting projects  
